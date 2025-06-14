@@ -65,7 +65,7 @@ Log every simulation, detection, and incident. Create markdown files for:
     - Link to download Kali Linux OS 
     - Link to download Ubuntu
 - Sign up for Splunk Cloud and download Splunk Forwarder to non-attacker boxes
-    - [Link]([url](https://www.splunk.com/en_us/download/splunk-cloud.html)) to sign up for Splunk Cloud
+    - [Link](https://www.splunk.com/en_us/download/splunk-cloud.html) to sign up for Splunk Cloud
     - [Link](https://www.splunk.com/en_us/blog/learn/splunk-universal-forwarder.html) to Splunk Forwarder
 
 Lastly.. Good Luck with this lab! More importantly.. HAVE FUN!!!
