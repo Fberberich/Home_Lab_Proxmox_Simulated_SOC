@@ -62,8 +62,8 @@ Log every simulation, detection, and incident. Create markdown files for:
 
 ## Prerequisites Before Running The Simulated Environment.
 - Create VMs and the environment itself within Proxmox
-    - Link to download Kali Linux OS 
-    - Link to download Ubuntu
+    - [Link](https://www.kali.org/get-kali/#kali-installer-images) to download Kali Linux OS 
+    - [Link](https://ubuntu.com/download/desktop) to download Ubuntu
 - Sign up for Splunk Cloud and download Splunk Forwarder to non-attacker boxes
     - [Link](https://www.splunk.com/en_us/download/splunk-cloud.html) to sign up for Splunk Cloud
     - [Link](https://www.splunk.com/en_us/blog/learn/splunk-universal-forwarder.html) to Splunk Forwarder
