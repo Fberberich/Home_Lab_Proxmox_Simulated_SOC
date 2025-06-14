@@ -60,7 +60,7 @@ Log every simulation, detection, and incident. Create markdown files for:
 - Detection queries and dashboards
 - Playbooks and responses
 
-## Prerequisites before running the simulated environment.
+## Prerequisites Before Running The Simulated Environment.
 - Create VMs and the environment itself within Proxmox
     - Link to download Kali Linux OS 
     - Link to download Ubuntu
